@@ -1,0 +1,10 @@
+{
+	"name": "LK_storage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://healthcarestorageadf.dfs.core.windows.net/"
+		}
+	}
+}
