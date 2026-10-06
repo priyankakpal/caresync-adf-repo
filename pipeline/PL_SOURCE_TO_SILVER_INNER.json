@@ -141,7 +141,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/caresync-repo/caresync-adb-repo/Bronze_to_Silver",
+					"notebookPath": "/caresync-repo/caresync-adb-repo/Landing_to_Bronze",
 					"baseParameters": {
 						"source_system": {
 							"value": "@activity('Read Table Details').output.firstRow.source_system",
