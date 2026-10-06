@@ -151,7 +151,7 @@
 							"value": "@activity('Read Table Details').output.firstRow.bronze_table_name",
 							"type": "Expression"
 						},
-						"landling_timestamp": {
+						"landing_timestamp": {
 							"value": "@variables('start_time')",
 							"type": "Expression"
 						}
