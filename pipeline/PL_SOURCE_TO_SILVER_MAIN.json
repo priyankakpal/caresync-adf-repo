@@ -152,7 +152,7 @@
 				"type": "string",
 				"defaultValue": "neon_postgres"
 			},
-			"run_id": {
+			"adf_run_id": {
 				"type": "string",
 				"defaultValue": "a2"
 			}
