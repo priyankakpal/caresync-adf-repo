@@ -1,0 +1,12 @@
+{
+	"name": "ADFHealthCareProject1",
+	"properties": {
+		"globalParameters": {
+			"email_recipient": {
+				"type": "string",
+				"value": "priyanka.pal2017@gmail.com"
+			}
+		}
+	},
+	"location": "eastus"
+}
